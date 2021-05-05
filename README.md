@@ -4,6 +4,8 @@ https://signal-clone-ekas.web.app/
 # For IOS or Android - 
 https://expo.io/@arshpreet/projects/signal-clone and Scan the URL
 
+practise by watching Sonny Sangha channel youtube. https://www.youtube.com/watch?v=MJzmZ9qmdaE
+
 # Expo CLI
 
 If you have problems with the code in this repository, please file issues & bug reports
