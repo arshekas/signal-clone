@@ -1,6 +1,8 @@
 # signal-clone 
-# Live Web - https://signal-clone-ekas.web.app/
-# For IOS or Android - https://expo.io/@arshpreet/projects/signal-clone and Scan the URL
+# Live Web - 
+https://signal-clone-ekas.web.app/
+# For IOS or Android - 
+https://expo.io/@arshpreet/projects/signal-clone and Scan the URL
 
 # Expo CLI
 
