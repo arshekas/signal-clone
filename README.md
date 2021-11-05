@@ -1,6 +1,6 @@
 # signal-clone 
 # Live Web - 
-https://signal-clone-ekas.web.app/ - To use, click on top left profile pic button and login first.
+https://signal-clone-ekas.web.app/ - **To use, click on top left profile pic button and login first.**
 # For IOS or Android - 
 https://expo.io/@arshpreet/projects/signal-clone and Scan the URL
 
